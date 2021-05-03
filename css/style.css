@@ -53,6 +53,9 @@ a {
     margin: 0 auto;
     margin-bottom: 6rem;
 }
+p {
+  text-align: center;
+}
 @media (max-width: 30.625em) {
     .projects-section {
       padding: 6rem 1rem;
@@ -91,7 +94,7 @@ a {
     justify-content: center;
     align-items: center;
     text-align: center;
-    width: 100%;
+    /* width: 100%; */
     height: 80vh;
     padding: 0 2rem;
     background: gray;
@@ -117,7 +120,7 @@ a {
   
   .contact-details {
     font-size: 1.4rem;
-    text-shadow: 1px 2px 1px #1f1f1f;
+    /* text-shadow: 1px 2px 1px #1f1f1f; */
     transition: transform 0.3s ease-out;
   }
   
